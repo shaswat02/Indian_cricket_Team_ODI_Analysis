@@ -1,0 +1,91 @@
+,Runs,Mins,BF,4s,6s,SR,Pos,Dismissal,Inns,Opposition,Ground
+0,40,65,44,6,0,90.90,2,caught,1,v England,Chester-le-Street
+1,54,89,47,5,1,114.89,2,caught,1,v England,Southampton
+2,0,3,3,0,0,0.00,2,caught,1,v England,The Oval
+3,38,60,53,5,1,71.69,2,lbw,1,v England,Lord's
+4,26,54,47,3,0,55.31,2,caught,1,v England,Cardiff
+5,15,59,41,0,0,36.58,2,stumped,1,v England,Hyderabad (Deccan)
+6,14,34,15,1,1,93.33,2,caught,2,v England,Delhi
+7,91,166,104,6,0,87.50,2,caught,2,v England,Mohali
+8,20,-,37,1,0,54.05,2,caught,2,v England,Mumbai
+9,42,80,61,6,0,68.85,1,caught,1,v England,Kolkata
+10,0,1,1,0,0,0.00,2,lbw,1,v West Indies,Chennai
+11,9,22,17,1,0,52.94,2,lbw,1,v Sri Lanka,Pallekele
+12,4,22,11,1,0,36.36,2,caught,1,v Pakistan,Delhi
+13,47,65,57,6,0,82.45,1,caught,2,v England,Rajkot
+14,4,23,14,0,0,28.57,1,bowled,1,v England,Kochi
+15,0,14,4,0,0,0.00,2,bowled,2,v England,Ranchi
+16,50,106,66,4,1,75.75,3,bowled,2,v Zimbabwe,Bulawayo
+17,8,23,17,1,0,47.05,4,caught,2,v South Africa,Durban
+18,7,10,13,0,0,53.84,4,caught,2,v New Zealand,Napier
+19,36,52,42,4,0,85.71,4,caught,2,v New Zealand,Hamilton
+20,3,22,14,0,0,21.42,4,caught,2,v New Zealand,Auckland
+21,3,22,8,0,0,37.50,3,caught,1,v New Zealand,Hamilton
+22,2,15,10,0,0,20.00,4,lbw,2,v New Zealand,Wellington
+23,73,158,83,7,1,87.95,4,caught,2,v Bangladesh,Fatullah
+24,22,40,27,1,0,81.48,4,caught,1,v Sri Lanka,Fatullah
+25,23,62,50,3,0,46.00,4,caught,1,v Pakistan,Dhaka
+26,56,90,66,5,0,84.84,1,lbw,2,v Afghanistan,Dhaka
+27,64,93,70,5,2,91.42,2,caught,2,v Bangladesh,Dhaka
+28,0,1,1,0,0,0.00,2,lbw,1,v Bangladesh,Dhaka
+29,3,25,18,0,0,16.66,2,caught,1,v Bangladesh,Dhaka
+30,41,70,47,4,0,87.23,4,stumped,1,v England,Cardiff
+31,45,71,56,6,1,80.35,1,caught,2,v England,Nottingham
+32,106,121,100,10,4,106.00,1,caught,2,v England,Birmingham
+33,0,2,3,0,0,0.00,1,caught,2,v England,Leeds
+34,24,43,22,4,0,109.09,1,run out,2,v West Indies,Kochi
+35,12,59,28,1,0,42.85,1,caught,1,v West Indies,Delhi
+36,68,102,79,7,0,86.07,1,lbw,1,v West Indies,Dharamsala
+37,111,170,108,13,2,102.77,1,caught,1,v Sri Lanka,Cuttack
+38,8,-,19,1,0,42.10,1,caught,2,v Sri Lanka,Ahmedabad
+39,31,-,47,5,0,65.95,1,caught,2,v Sri Lanka,Hyderabad (Deccan)
+40,28,33,24,6,0,116.66,1,lbw,1,v Sri Lanka,Kolkata
+41,2,10,10,0,0,20.00,1,bowled,2,v Sri Lanka,Ranchi
+42,12,29,22,2,0,54.54,3,caught,1,v Australia,Melbourne
+43,33,60,40,1,1,82.50,1,caught,1,v England,Brisbane
+44,28*,61,50,2,0,56.00,1,not out,1,v Australia,Sydney
+45,73,152,101,3,1,72.27,1,caught,1,v England,Perth
+46,0,3,1,0,0,0.00,7,bowled,1,v Pakistan,Adelaide
+47,79,90,60,7,3,131.66,4,lbw,1,v South Africa,Melbourne
+48,DNB,-,-,-,-,-,-,-,2,v U.A.E.,Perth
+49,14,56,34,2,0,41.17,4,caught,2,v West Indies,Perth
+50,33*,44,28,6,0,117.85,4,not out,2,v Ireland,Hamilton
+51,19,40,24,3,0,79.16,4,run out,2,v Zimbabwe,Auckland
+52,19,38,37,1,0,51.35,4,caught,1,v Bangladesh,Melbourne
+53,44,87,68,2,0,64.70,4,caught,2,v Australia,Sydney
+54,9,27,25,1,0,36.00,4,caught,2,v Bangladesh,Dhaka
+55,34,80,49,5,0,69.38,1,caught,1,v Zimbabwe,Harare
+56,63,101,83,7,0,75.90,1,caught,1,v Zimbabwe,Harare
+57,15,28,22,1,0,68.18,1,caught,1,v Zimbabwe,Harare
+58,60,117,82,5,0,73.17,3,caught,2,v South Africa,Kanpur
+59,51,94,63,6,0,80.95,3,bowled,1,v South Africa,Indore
+60,4,12,7,0,0,57.14,6,caught,2,v South Africa,Rajkot
+61,45,79,53,4,0,84.90,4,caught,1,v South Africa,Chennai
+62,87,87,58,9,3,150.00,4,caught,2,v South Africa,Mumbai
+63,DNB,-,-,-,-,-,-,-,1,v Australia,Perth
+64,89,107,80,6,1,111.25,4,caught,1,v Australia,Brisbane
+65,50,72,55,4,1,90.90,4,caught,1,v Australia,Melbourne
+66,2,7,3,0,0,66.66,7,caught,2,v Australia,Canberra
+67,33,59,34,4,2,97.05,2,caught,2,v New Zealand,Dharamsala
+68,28,75,49,3,0,57.14,2,caught,2,v New Zealand,Delhi
+69,5,11,10,1,0,50.00,2,caught,2,v New Zealand,Mohali
+70,57,108,70,5,1,81.42,1,lbw,2,v New Zealand,Ranchi
+71,20,45,39,3,0,51.28,1,caught,1,v New Zealand,Visakhapatnam
+72,1,8,6,0,0,16.66,1,bowled,2,v England,Kolkata
+73,62,-,78,8,0,79.48,1,caught,1,v West Indies,Port of Spain
+74,103,-,104,10,2,99.03,1,bowled,1,v West Indies,Port of Spain
+75,72,-,112,4,1,64.28,1,caught,1,v West Indies,North Sound
+76,60,-,91,7,0,65.93,1,caught,2,v West Indies,North Sound
+77,39,-,51,5,0,76.47,1,lbw,2,v West Indies,Kingston
+78,5,-,17,0,0,29.41,2,caught,2,v Sri Lanka,Colombo (RPS)
+79,5,18,15,0,0,33.33,1,caught,1,v Australia,Chennai
+80,55,110,64,7,0,85.93,1,run out,1,v Australia,Kolkata
+81,70,103,76,9,0,92.10,1,lbw,2,v Australia,Indore
+82,53,75,66,6,1,80.30,1,caught,2,v Australia,Bengaluru
+83,61,93,74,7,0,82.43,1,lbw,2,v Australia,Nagpur
+84,79,126,86,5,2,91.86,4,caught,2,v South Africa,Durban
+85,DNB,-,-,-,-,-,-,-,2,v South Africa,Centurion
+86,11,16,13,0,0,84.61,4,caught,1,v South Africa,Cape Town
+87,8,30,15,1,0,53.33,4,caught,1,v South Africa,Johannesburg
+88,8,25,18,0,0,44.44,4,run out,1,v South Africa,Port Elizabeth
+89,34*,81,50,3,0,68.00,4,not out,2,v South Africa,Centurion

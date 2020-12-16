@@ -1,0 +1,78 @@
+,Overs,Mdns,Runs,Wkts,Econ,Pos,Inns,Opposition,Ground
+0,9.0,4,23,1,2.55,2,2,v Pakistan,Delhi
+1,4.0,1,24,1,6.00,2,2,v England,Kochi
+2,8.0,0,23,1,2.87,2,1,v England,Ranchi
+3,8.0,0,58,0,7.25,2,1,v England,Mohali
+4,9.0,1,46,1,5.11,2,2,v England,Dharamsala
+5,10.0,0,68,0,6.80,1,1,v Sri Lanka,Kingston
+6,10.0,1,45,1,4.50,2,1,v Zimbabwe,Harare
+7,10.0,0,52,1,5.20,2,2,v Zimbabwe,Harare
+8,9.0,0,25,2,2.77,2,1,v Zimbabwe,Harare
+9,8.0,1,34,1,4.25,2,1,v Zimbabwe,Bulawayo
+10,7.0,1,27,1,3.85,4,1,v Zimbabwe,Bulawayo
+11,8.0,1,42,3,5.25,2,1,v Australia,Ranchi
+12,8.0,1,66,1,8.25,2,1,v Australia,Nagpur
+13,8.1,0,52,3,6.36,2,2,v Australia,Bengaluru
+14,6.0,0,28,1,4.66,3,1,v West Indies,Kochi
+15,7.0,0,55,2,7.85,3,2,v West Indies,Visakhapatnam
+16,10.0,1,49,1,4.90,3,1,v West Indies,Kanpur
+17,10.0,1,68,3,6.80,3,1,v South Africa,Johannesburg
+18,8.0,0,48,3,6.00,2,1,v South Africa,Durban
+19,10.0,0,69,3,6.90,3,1,v South Africa,Centurion
+20,9.0,0,55,4,6.11,2,1,v New Zealand,Napier
+21,7.0,0,55,3,7.85,2,1,v New Zealand,Hamilton
+22,10.0,0,84,2,8.40,2,1,v New Zealand,Auckland
+23,8.0,0,61,1,7.62,2,2,v New Zealand,Hamilton
+24,10.0,3,61,1,6.10,1,1,v New Zealand,Wellington
+25,10.0,1,50,4,5.00,2,1,v Bangladesh,Fatullah
+26,10.0,0,81,3,8.10,2,2,v Sri Lanka,Fatullah
+27,10.0,0,49,0,4.90,2,2,v Pakistan,Dhaka
+28,7.2,0,50,2,6.81,2,1,v Afghanistan,Dhaka
+29,6.0,0,32,2,5.33,3,2,v England,Cardiff
+30,9.0,0,40,1,4.44,3,1,v England,Nottingham
+31,7.3,1,28,3,3.73,3,1,v England,Birmingham
+32,10.0,0,52,2,5.20,3,1,v England,Leeds
+33,9.0,1,66,4,7.33,3,1,v West Indies,Kochi
+34,9.3,0,36,4,3.78,3,2,v West Indies,Delhi
+35,9.1,0,72,2,7.85,3,2,v West Indies,Dharamsala
+36,8.1,0,44,1,5.38,3,2,v Australia,Melbourne
+37,4.0,0,23,0,5.75,4,2,v England,Brisbane
+38,TDNB,-,-,-,-,-,-,v Australia,Sydney
+39,9.0,0,31,1,3.44,3,2,v England,Perth
+40,9.0,1,35,4,3.88,2,2,v Pakistan,Adelaide
+41,8.0,1,30,2,3.75,2,2,v South Africa,Melbourne
+42,8.0,2,35,3,4.37,1,1,v West Indies,Perth
+43,9.0,0,41,3,4.55,2,1,v Ireland,Hamilton
+44,9.0,2,48,3,5.33,1,1,v Zimbabwe,Auckland
+45,8.0,1,37,2,4.62,2,2,v Bangladesh,Melbourne
+46,10.0,0,68,0,6.80,1,1,v Australia,Sydney
+47,10.0,2,33,0,3.30,1,1,v West Indies,North Sound
+48,10.0,0,48,4,4.80,1,1,v West Indies,Kingston
+49,10.0,1,62,0,6.20,1,1,v Australia,Bengaluru
+50,10.0,0,81,2,8.10,1,1,v West Indies,Guwahati
+51,10.0,0,59,1,5.90,1,2,v West Indies,Visakhapatnam
+52,10.0,0,46,0,4.60,3,1,v Australia,Sydney
+53,10.0,0,58,3,5.80,2,1,v Australia,Adelaide
+54,9.4,0,47,2,4.86,2,1,v Australia,Melbourne
+55,6.0,2,19,3,3.16,2,1,v New Zealand,Napier
+56,6.0,0,43,1,7.16,2,2,v New Zealand,Mount Maunganui
+57,9.0,0,41,3,4.55,2,1,v New Zealand,Mount Maunganui
+58,8.0,0,35,2,4.37,2,2,v New Zealand,Wellington
+59,10.0,2,44,2,4.40,1,1,v Australia,Hyderabad (Deccan)
+60,10.0,0,60,0,6.00,1,2,v Australia,Nagpur
+61,10.0,0,52,1,5.20,1,1,v Australia,Ranchi
+62,9.0,0,57,2,6.33,2,1,v Australia,Delhi
+63,9.5,1,40,4,4.06,1,2,v Afghanistan,Southampton
+64,6.2,0,16,4,2.52,1,2,v West Indies,Manchester
+65,10.0,1,69,5,6.90,1,1,v England,Birmingham
+66,9.0,0,68,1,7.55,3,2,v Bangladesh,Birmingham
+67,3.0,0,5,0,1.66,2,1,v West Indies,Providence
+68,8.0,0,39,2,4.87,2,2,v West Indies,Port of Spain
+69,7.0,1,50,2,7.14,2,1,v West Indies,Port of Spain
+70,9.0,1,57,1,6.33,2,2,v West Indies,Chennai
+71,7.3,0,39,3,5.20,3,2,v West Indies,Visakhapatnam
+72,10.0,2,66,1,6.60,2,1,v West Indies,Cuttack
+73,7.4,0,58,0,7.56,1,2,v Australia,Mumbai
+74,10.0,0,77,3,7.70,2,2,v Australia,Rajkot
+75,10.0,0,63,4,6.30,2,1,v Australia,Bengaluru
+76,9.1,0,63,1,6.87,2,2,v New Zealand,Hamilton
